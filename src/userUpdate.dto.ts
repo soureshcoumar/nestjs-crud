@@ -1,3 +1,4 @@
-export class UpdateUserDto{
-    description: string;
+export class UpdateUserDto {
+  description: string;
 }
+
